@@ -4,6 +4,7 @@ aliases: []
 tags:
   - info
 ---
+## Petels
 [[Petels]] game of creating family in corprate team. Drug takes from of colorfull scarab. Pulling it's legs will release biologicat substance and scaning code on it's wings will connect you to server as a family and allows to play corporate team-buling exercises like capture virtual flag from other families or virtual competetive mashroom picking. 
 PC can find out from logs that most of people play those games, they are consider somehow mandatory. A lot of workers were considering those games boring and were asking to make those more intresting.
 

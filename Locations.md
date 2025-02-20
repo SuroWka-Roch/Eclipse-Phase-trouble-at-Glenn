@@ -6,11 +6,12 @@ tags:
 ---
 
 
-* [[Gwen-outside]]
+- [[Glenn-outside]]
 * [[Space-Port]]
 * [[Laboratory]]
 * [[Common-space]]
 * [[Dormitory]]
 * [[The-spine]]
+* [[Offices]]
 
 
