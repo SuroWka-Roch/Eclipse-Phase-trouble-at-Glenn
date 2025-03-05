@@ -8,4 +8,4 @@ tags:
   - ToDo/stats
 ---
 
-Infomorth from security with observers/survivor trauma from the fall. At the [[Glenn's-petal]] rampup starts masive quarantine that locks station and separetes servers into cells.
+Infomorph from security with observers/survivor trauma from the fall. At the [[Glenn's-petal]] ramp up starts massive quarantine that locks station and separates servers into cells. 

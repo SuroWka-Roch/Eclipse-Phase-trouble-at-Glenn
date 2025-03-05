@@ -1,10 +1,10 @@
 ---
 id: Locations
-aliases: []
+aliases:
+  - Places
 tags:
   - entry
 ---
-
 
 - [[Glenn-outside]]
 * [[Space-Port]]
