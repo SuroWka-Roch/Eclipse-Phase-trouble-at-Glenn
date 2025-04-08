@@ -18,3 +18,8 @@ PC Cell setup:
  * Sentinel: An on-call Firewall agent that works with a cell on field operations.
  * Vector: A proxy that handles hacking, communications, and online security.
 
+# PC cell
+
+Sentinel - PC
+Router - [[Eldrune]]
+Vector + Crow - [[Ida Schmid]]

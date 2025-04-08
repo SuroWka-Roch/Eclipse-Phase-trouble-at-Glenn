@@ -15,5 +15,8 @@ From outside on non port site you have communication array.
 
 ![Glen_outside.png](assets/imgs/Glen_outside.png)
 
+## Entry points
+
+PC can enter using small spaceship given by [[Firewall|firewall]] or enter any side of station using drop suits and entry bubble.
 
 
