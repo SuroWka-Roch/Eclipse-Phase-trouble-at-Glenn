@@ -14,4 +14,5 @@ tags:
 ## Non named NPC
 * [[turret]]
 * [[Robotic-infected]]
+* [[Biological-infected]]
 

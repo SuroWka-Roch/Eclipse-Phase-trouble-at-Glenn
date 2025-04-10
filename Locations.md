@@ -13,5 +13,6 @@ tags:
 * [[Dormitory]]
 * [[The-spine]]
 * [[Offices]]
+* [[Canteen]]
 
 

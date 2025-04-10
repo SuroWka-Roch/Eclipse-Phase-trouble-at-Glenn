@@ -22,3 +22,6 @@ Whole scene is surreal by the fact that nanobots remove all of blood from massac
 
 PC can find a computers showing that Titan artifact was not resived by [[Taisa-Trifon|trisa]]. additionally there is 
 
+## Map
+
+:![labMap.png](pic/labMap.png)
